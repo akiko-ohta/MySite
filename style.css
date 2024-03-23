@@ -14,6 +14,8 @@ header {
 .header-group {
   display: flex;
   justify-content: space-between;
+  width: 1024px;
+  text-align: center;
 }
 
 .logo {
